@@ -1,0 +1,8 @@
+✅ Data Understanding
+✅ Data Cleaning
+✅ EDA
+✅ Feature Engineering
+✅ Forecasting
+✅ Dashboard
+✅ README احترافي
+✅ رفع المشروع على GitHub
