@@ -87,7 +87,7 @@ Superstore-Sales-Analysis/
 
 ### Dashboard Overview
 
-![Dashboard Overview](images/dashboard1.png)
+![Dashboard Overview](images/Screenshot 2026-08-02 021751.png)
 
 ### Sales Analysis
 
