@@ -83,6 +83,22 @@ Superstore-Sales-Analysis/
 └── requirements.txt
 ```
 
+## 📷 Dashboard Preview
+
+### Dashboard Overview
+
+![Dashboard Overview](images/dashboard1.png)
+
+### Sales Analysis
+
+![Sales Analysis](images/dashboard2.png)
+
+### Regional Analysis
+
+![Regional Analysis](images/dashboard3.png)
+
+---
+
 ## 🔮 Future Improvements
 
 - Improve forecasting accuracy
