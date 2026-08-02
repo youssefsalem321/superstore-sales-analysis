@@ -4,5 +4,4 @@
 ✅ Feature Engineering
 ✅ Forecasting
 ✅ Dashboard
-✅ README احترافي
-✅ رفع المشروع على GitHub
+✅ README 
